@@ -1,3 +1,5 @@
+#Código para la Función lambda Delete
+
 import os
 
 import boto3
