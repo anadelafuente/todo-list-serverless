@@ -1,4 +1,4 @@
-#Código para la Función lambda crear
+#Código para la Función lambda Create
 
 import json
 import logging
