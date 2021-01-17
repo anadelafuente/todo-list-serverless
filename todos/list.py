@@ -1,4 +1,5 @@
-#Código para la función lambda List
+#Práctica
+#Este Código es para la función lambda List
 
 import json
 import os
